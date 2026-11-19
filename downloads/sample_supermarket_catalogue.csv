@@ -1,0 +1,21 @@
+product_id,name,category,unit_price_demo,unit_cost_demo,initial_stock,illustration
+P001,Fresh Apples 1kg,Produce,4.9,4.1,54,🍎
+P002,Banana Bunch,Produce,3.2,2.2,64,🍌
+P003,Tomato Pack 500g,Produce,2.75,1.95,38,🍅
+P004,Lettuce Head,Produce,2.1,1.05,29,🥬
+P005,Whole Milk 1L,Dairy,2.45,1.7,48,🥛
+P006,Greek Yoghurt,Dairy,3.8,2.65,26,🥣
+P007,Cheddar Cheese,Dairy,5.65,3.9,19,🧀
+P008,Brown Bread Loaf,Bakery,3.4,2.15,36,🍞
+P009,Butter Croissant,Bakery,2.25,1.35,27,🥐
+P010,Chocolate Muffin,Bakery,2.8,1.55,17,🧁
+P011,Long Grain Rice 2kg,Pantry,8.9,6.3,45,🍚
+P012,Spaghetti Pack,Pantry,2.7,1.7,52,🍝
+P013,Olive Oil 500ml,Pantry,9.4,6.95,23,🫒
+P014,Peanut Butter,Pantry,4.3,2.95,34,🥜
+P015,Sparkling Water 1L,Beverages,1.7,0.9,70,💧
+P016,Orange Juice 1L,Beverages,3.9,2.5,39,🧃
+P017,Coffee Beans 250g,Beverages,7.5,5.15,22,☕
+P018,Dish Soap 500ml,Household,3.15,1.85,41,🧴
+P019,Paper Towels 4pk,Household,6.3,4.0,29,🧻
+P020,Laundry Detergent,Household,10.2,6.9,24,🫧

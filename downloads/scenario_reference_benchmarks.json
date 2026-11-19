@@ -1,0 +1,9 @@
+{
+  "revenue": 233635.95,
+  "transactions": 39271,
+  "units": 71758,
+  "inventory_units": 7386,
+  "recorded_waste_units": 4500,
+  "recorded_waste_rate": 60.93,
+  "source_note": "Historical coffee-shop exercise reference figures; NOT observed supermarket transactions or inventory. Included only as explicitly labelled illustrative benchmarks."
+}

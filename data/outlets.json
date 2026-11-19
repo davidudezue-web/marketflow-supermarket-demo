@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ST01",
+    "name": "Central Market",
+    "neighborhood": "Central District",
+    "revenue": 79528.25,
+    "transactions": 13699,
+    "units": 24109,
+    "waste": 1443,
+    "opening": 2520
+  },
+  {
+    "id": "ST02",
+    "name": "Riverside",
+    "neighborhood": "Riverside Quarter",
+    "revenue": 77213.23,
+    "transactions": 13585,
+    "units": 23620,
+    "waste": 1467,
+    "opening": 2346
+  },
+  {
+    "id": "ST03",
+    "name": "Uptown",
+    "neighborhood": "Uptown Junction",
+    "revenue": 76894.47,
+    "transactions": 11987,
+    "units": 24029,
+    "waste": 1590,
+    "opening": 2520
+  }
+]
