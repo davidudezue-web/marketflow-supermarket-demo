@@ -1,0 +1,221 @@
+{
+  "context": "Synthetic supermarket operations demo. Revenue and volume totals mirror figures from a separate coffee-shop exercise, translated for UI demonstration only. NOT real supermarket transactions or evidence of an engaged client.",
+  "period": "Illustrative historical month",
+  "currency": "CU",
+  "kpis": {
+    "revenue": 233635.95,
+    "transactions": 39271,
+    "salesLines": 49894,
+    "units": 71758,
+    "opening": 7386,
+    "soldInventory": 2854,
+    "waste": 4500
+  },
+  "categories": [
+    {
+      "name": "Pantry",
+      "revenue": 90948.45
+    },
+    {
+      "name": "Beverages",
+      "revenue": 65374.25
+    },
+    {
+      "name": "Fresh Produce",
+      "revenue": 26935.7
+    },
+    {
+      "name": "Dairy & Eggs",
+      "revenue": 24248.5
+    },
+    {
+      "name": "Bakery",
+      "revenue": 13676.65
+    },
+    {
+      "name": "Home Essentials",
+      "revenue": 4574.0
+    },
+    {
+      "name": "Snacks",
+      "revenue": 3718.7
+    },
+    {
+      "name": "Frozen Foods",
+      "revenue": 4159.7
+    }
+  ],
+  "stores": [
+    {
+      "id": "ST01",
+      "name": "Central Market",
+      "neighborhood": "Central District",
+      "revenue": 79528.25,
+      "transactions": 13699,
+      "units": 24109,
+      "waste": 1443,
+      "opening": 2520
+    },
+    {
+      "id": "ST02",
+      "name": "Riverside",
+      "neighborhood": "Riverside Quarter",
+      "revenue": 77213.23,
+      "transactions": 13585,
+      "units": 23620,
+      "waste": 1467,
+      "opening": 2346
+    },
+    {
+      "id": "ST03",
+      "name": "Uptown",
+      "neighborhood": "Uptown Junction",
+      "revenue": 76894.47,
+      "transactions": 11987,
+      "units": 24029,
+      "waste": 1590,
+      "opening": 2520
+    }
+  ],
+  "weekdays": [
+    {
+      "day": "Mon",
+      "avg": 1356.2
+    },
+    {
+      "day": "Tue",
+      "avg": 1395
+    },
+    {
+      "day": "Wed",
+      "avg": 1405.25
+    },
+    {
+      "day": "Thu",
+      "avg": 1352.25
+    },
+    {
+      "day": "Fri",
+      "avg": 1383.75
+    },
+    {
+      "day": "Sat",
+      "avg": 1330.5
+    },
+    {
+      "day": "Sun",
+      "avg": 1255.75
+    }
+  ],
+  "hours": [
+    {
+      "hour": 6,
+      "transactions": 1127
+    },
+    {
+      "hour": 7,
+      "transactions": 3384
+    },
+    {
+      "hour": 8,
+      "transactions": 4529
+    },
+    {
+      "hour": 9,
+      "transactions": 4510
+    },
+    {
+      "hour": 10,
+      "transactions": 4555
+    },
+    {
+      "hour": 11,
+      "transactions": 2641
+    },
+    {
+      "hour": 12,
+      "transactions": 2404
+    },
+    {
+      "hour": 13,
+      "transactions": 2381
+    },
+    {
+      "hour": 14,
+      "transactions": 2432
+    },
+    {
+      "hour": 15,
+      "transactions": 2435
+    },
+    {
+      "hour": 16,
+      "transactions": 2478
+    },
+    {
+      "hour": 17,
+      "transactions": 2407
+    },
+    {
+      "hour": 18,
+      "transactions": 2085
+    },
+    {
+      "hour": 19,
+      "transactions": 1663
+    },
+    {
+      "hour": 20,
+      "transactions": 150
+    }
+  ],
+  "wasteProducts": [
+    {
+      "name": "Fresh Sandwich Bread",
+      "waste": 2140,
+      "opening": 2976,
+      "sold": 840
+    },
+    {
+      "name": "Seasonal Bakery Rolls",
+      "waste": 600,
+      "opening": 1080,
+      "sold": 480
+    },
+    {
+      "name": "Leafy Greens Pack",
+      "waste": 596,
+      "opening": 1098,
+      "sold": 502
+    },
+    {
+      "name": "Pre-cut Fruit Cups",
+      "waste": 585,
+      "opening": 1134,
+      "sold": 513
+    },
+    {
+      "name": "Deli Snack Packs",
+      "waste": 579,
+      "opening": 1098,
+      "sold": 519
+    }
+  ],
+  "storeWaste": [
+    {
+      "store": "Central Market",
+      "waste": 1443,
+      "opening": 2520
+    },
+    {
+      "store": "Riverside",
+      "waste": 1467,
+      "opening": 2346
+    },
+    {
+      "store": "Uptown",
+      "waste": 1590,
+      "opening": 2520
+    }
+  ]
+}

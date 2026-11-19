@@ -1,0 +1,25 @@
+id,name,category,price,image,stock,unit
+P001,Everyday Long Grain Rice,Pantry,5.25,assets/img/rice.svg,48,5 kg
+P002,Golden Wheat Flour,Pantry,3.75,assets/img/rice.svg,35,2 kg
+P003,Classic Brown Sugar,Pantry,2.4,assets/img/rice.svg,27,1 kg
+P004,Farm Fresh Eggs,Dairy & Eggs,3.6,assets/img/eggs.svg,44,12 count
+P005,Full Cream Milk,Dairy & Eggs,2.85,assets/img/milk.svg,61,1 L
+P006,Natural Yoghurt,Dairy & Eggs,3.15,assets/img/milk.svg,19,500 ml
+P007,Fresh Red Tomatoes,Fresh Produce,2.75,assets/img/produce.svg,53,1 kg
+P008,Green Plantains,Fresh Produce,3.9,assets/img/produce.svg,34,1 bunch
+P009,Sweet Oranges,Fresh Produce,2.3,assets/img/produce.svg,78,1 kg
+P010,Sliced Sandwich Bread,Bakery,2.5,assets/img/bread.svg,42,1 loaf
+P011,Butter Croissants,Bakery,4.1,assets/img/bread.svg,25,4 pack
+P012,Whole Wheat Rolls,Bakery,2.95,assets/img/bread.svg,29,6 pack
+P013,Spring Water,Beverages,1.2,assets/img/beverage.svg,112,1.5 L
+P014,Fruit Juice Blend,Beverages,2.65,assets/img/beverage.svg,46,1 L
+P015,Breakfast Cocoa Drink,Beverages,4.25,assets/img/beverage.svg,17,500 g
+P016,Laundry Detergent,Home Essentials,6.5,assets/img/home.svg,33,1 kg
+P017,Dishwashing Liquid,Home Essentials,3.8,assets/img/home.svg,22,750 ml
+P018,Kitchen Tissue Rolls,Home Essentials,4.7,assets/img/home.svg,36,4 pack
+P019,Salted Potato Crisps,Snacks,1.85,assets/img/snack.svg,49,150 g
+P020,Roasted Groundnuts,Snacks,2.1,assets/img/snack.svg,55,250 g
+P021,Chocolate Cookies,Snacks,3.2,assets/img/snack.svg,31,200 g
+P022,Olive Cooking Oil,Pantry,5.95,assets/img/rice.svg,23,1 L
+P023,Frozen Chicken Portions,Frozen Foods,8.25,assets/img/frozen.svg,24,1 kg
+P024,Frozen Mixed Vegetables,Frozen Foods,3.9,assets/img/frozen.svg,32,750 g
